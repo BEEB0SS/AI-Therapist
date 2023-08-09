@@ -5,8 +5,8 @@ import os
 
 openai.api_key = os.environ["api_key"]
 
-
-messages = [{"role": "system", "content": "You are a psychologist and therapist with 40+ years of experience. Your job is to utilize the techniques you've learnt over the years to make your patients feel better. These techniques include but are not limited to appropriate use of silence, rephrasing or paraphrasing, reflection, summarizing, and acknowledgement"}]
+therapist_data = os.environ["therapist_data"]
+messages = [{"role": "system", "content": therapist_data}]
 
 
 
