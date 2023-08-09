@@ -2,6 +2,9 @@
 
 AI Therapist App
 
+The app is free for use. 
+Link to app: https://huggingface.co/spaces/Beeboss/Albert
+
 *Note: Many other files cannot be included in the Github repository due to ethical and privacy reasons
 
 The AI Therapist App is a groundbreaking application designed to provide personalized emotional support and mental well-being assistance using advanced artificial intelligence technologies. Whether you're dealing with stress, anxiety, or simply need someone to talk to, our app offers a confidential and compassionate virtual space for you to express your thoughts and feelings.
